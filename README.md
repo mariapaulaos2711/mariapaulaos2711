@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, me chamo Maria Paula tenho 16 anos e estou cursando TI no SENAI jaguariúna.
+#Bem vindos ao meu perfil :3
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kahfontess/kahfontess/output/github-contribution-grid-snake-dark.svg">
